@@ -1,0 +1,239 @@
+{
+  "user@gmail.com": [
+    {
+      "id": "342c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 4999,
+      "newPrice": 3999,
+      "quantity": 1
+    }
+  ],
+  "admin123@gmail.com": [
+    {
+      "id": "342c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 34999,
+      "newPrice": 15999
+    },
+    {
+      "id": "637d",
+      "image": "https://snooplay.in/cdn/shop/files/DinosaurTrackSet_TrackGame6google_720x.png?v=1683123555",
+      "name": "2 Layers Art Supplies Coloring Portable Case Kit (145 Pieces) - Assorted Case Colours & Designs",
+      "oldPrice": 4999,
+      "newPrice": 3999
+    },
+    {
+      "id": "5a6c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 2800,
+      "newPrice": 1485
+    },
+    {
+      "id": "1d9c",
+      "image": "https://snooplay.in/cdn/shop/files/BatteryOperatedCashRegisterwithScannerandCashBillingMachinePretendPlaySetwithAccessories_33Pieces_2google_540x.png?v=1695020134",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 3500,
+      "newPrice": 2050
+    },
+    {
+      "id": "816e",
+      "image": "https://snooplay.in/cdn/shop/products/MercedesG-Class9google_720x.png?v=1677567892",
+      "name": "SUV Diecast Car Model (3220) resembling Mercedes G-class (1:32 Scale)- comes with light & sound feature (Assorted colors and designs)",
+      "oldPrice": 1850,
+      "newPrice": 1498.5
+    },
+    {
+      "id": "6b52",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Max6_300x.png?v=1724752165",
+      "name": "Original Licensed Oracle Red Bull Racing RB19 (2023) Diecast Car with Driver Figurine - Sergio Perez  | 1:24 Scale Model",
+      "oldPrice": 4495,
+      "newPrice": 3495
+    },
+    {
+      "id": "b734",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/KTMRC3_300x.png?v=1724755580",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 4000,
+      "newPrice": 3000
+    },
+    {
+      "id": "bb3e",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Jaguar1_300x.png?v=1724743845",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 5995,
+      "newPrice": 4995
+    },
+    {
+      "id": "17e8",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Harley5_300x.png?v=1712645060",
+      "name": "Electric Ride-On Bike (resembling Harley, 3 Wheel Stability, Realistic Features, Music) | COD not Available",
+      "oldPrice": 6999,
+      "newPrice": 5499
+    },
+    {
+      "id": "17e8",
+      "image": "https://snooplay.in/cdn/shop/files/BatteryOperatedCashRegisterwithScannerandCashBillingMachinePretendPlaySetwithAccessories_33Pieces_2google_540x.png?v=1695020134",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 3500,
+      "newPrice": 2050
+    }
+  ],
+  "cart": [
+    {
+      "email": "admin123@gmail.com",
+      "item": {
+        "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+        "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+        "oldPrice": 250.8,
+        "newPrice": 240.9
+      },
+      "id": "d535"
+    },
+    {
+      "email": "admin123@gmail.com",
+      "item": {
+        "image": "https://snooplay.in/cdn/shop/files/DinosaurTrackSet_TrackGame6google_720x.png?v=1683123555",
+        "name": "2 Layers Art Supplies Coloring Portable Case Kit (145 Pieces) - Assorted Case Colours & Designs",
+        "oldPrice": 250.8,
+        "newPrice": 230.85
+      },
+      "id": "1d2f"
+    },
+    {
+      "email": "admin123@gmail.com",
+      "item": {
+        "image": "https://snooplay.in/cdn/shop/files/BatteryOperatedCashRegisterwithScannerandCashBillingMachinePretendPlaySetwithAccessories_33Pieces_2google_540x.png?v=1695020134",
+        "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+        "oldPrice": 550.8,
+        "newPrice": 520.85
+      },
+      "id": "05ca"
+    }
+  ],
+  "userDB": [
+    {
+      "email": "admin123@gmail.com",
+      "password": "Admin123@",
+      "cart": [
+        {
+          "id": "816e",
+          "image": "https://snooplay.in/cdn/shop/products/MercedesG-Class9google_720x.png?v=1677567892",
+          "name": "SUV Diecast Car Model (3220) resembling Mercedes G-class (1:32 Scale)- comes with light & sound feature (Assorted colors and designs)",
+          "oldPrice": 2500,
+          "newPrice": 2400
+        }
+      ],
+      "id": "ba9f"
+    },
+    {
+      "email": "admin1234@gmail.com",
+      "password": "Admin123@",
+      "cart": [
+        {
+          "id": "637d",
+          "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Max6_300x.png?v=1724752165",
+          "name": "Original Licensed Oracle Red Bull Racing RB19 (2023) Diecast Car with Driver Figurine - Sergio Perez  | 1:24 Scale Model",
+          "oldPrice": 250.8,
+          "newPrice": 240.9
+        }
+      ],
+      "id": "ffaa"
+    },
+    {
+      "email": "user@gmail.com",
+      "password": "User8085@@",
+      "cart": [
+        {
+          "id": "342c",
+          "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+          "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+          "oldPrice": 3999,
+          "newPrice": 2999
+        },
+        {
+          "id": "637d",
+          "image": "https://snooplay.in/cdn/shop/files/DinosaurTrackSet_TrackGame6google_720x.png?v=1683123555",
+          "name": "2 Layers Art Supplies Coloring Portable Case Kit (145 Pieces) - Assorted Case Colours & Designs",
+          "oldPrice": 5999,
+          "newPrice": 4999
+        }
+      ],
+      "id": "9745"
+    }
+  ],
+  "products": [
+    {
+      "id": "342c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 4999,
+      "newPrice": 3999
+    },
+    {
+      "id": "637d",
+      "image": "https://snooplay.in/cdn/shop/files/DinosaurTrackSet_TrackGame6google_720x.png?v=1683123555",
+      "name": "2 Layers Art Supplies Coloring Portable Case Kit (145 Pieces) - Assorted Case Colours & Designs",
+      "oldPrice": 4999,
+      "newPrice": 3999
+    },
+    {
+      "id": "5a6c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 2800,
+      "newPrice": 1485
+    },
+    {
+      "id": "1d9c",
+      "image": "https://snooplay.in/cdn/shop/files/BatteryOperatedCashRegisterwithScannerandCashBillingMachinePretendPlaySetwithAccessories_33Pieces_2google_540x.png?v=1695020134",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 3500,
+      "newPrice": 2050
+    },
+    {
+      "id": "816e",
+      "image": "https://snooplay.in/cdn/shop/products/MercedesG-Class9google_720x.png?v=1677567892",
+      "name": "SUV Diecast Car Model (3220) resembling Mercedes G-class (1:32 Scale)- comes with light & sound feature (Assorted colors and designs)",
+      "oldPrice": 1850,
+      "newPrice": 1498
+    },
+    {
+      "id": "6b52",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Max6_300x.png?v=1724752165",
+      "name": "Original Licensed Oracle Red Bull Racing RB19 (2023) Diecast Car with Driver Figurine - Sergio Perez  | 1:24 Scale Model",
+      "oldPrice": 4495,
+      "newPrice": 3495
+    },
+    {
+      "id": "b734",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/KTMRC3_300x.png?v=1724755580",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 4000,
+      "newPrice": 3000
+    },
+    {
+      "id": "bb3e",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Jaguar1_300x.png?v=1724743845",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 5995,
+      "newPrice": 4995
+    },
+    {
+      "id": "17e8",
+      "image": "https://cdn.shopify.com/s/files/1/0011/8367/8476/files/Harley5_300x.png?v=1712645060",
+      "name": "Electric Ride-On Bike (resembling Harley, 3 Wheel Stability, Realistic Features, Music) | COD not Available",
+      "oldPrice": 6999,
+      "newPrice": 5499
+    },
+    {
+      "id": "17e8",
+      "image": "https://snooplay.in/cdn/shop/files/BatteryOperatedCashRegisterwithScannerandCashBillingMachinePretendPlaySetwithAccessories_33Pieces_2google_540x.png?v=1695020134",
+      "name": "Battery Operated Cash Register with Scanner and Cash Billing Machine Pretend Play Set with Accessories (33 Pieces)",
+      "oldPrice": 3500,
+      "newPrice": 2050
+    }
+  ]
+}

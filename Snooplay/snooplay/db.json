@@ -1,0 +1,33 @@
+{
+  "userDB": [
+    {
+      "id": "1",
+      "email": "admin123@gmail.com",
+      "password": "Admin123@",
+      "cart": []
+    },
+    {
+      "id": "2",
+      "email": "user@gmail.com",
+      "password": "User8085@@",
+      "cart": []
+    }
+  ],
+  "products": [
+    {
+      "id": "342c",
+      "image": "https://snooplay.in/cdn/shop/files/71je4deGMFL._SL1500__cleanup_360x.png?v=1704106843",
+      "name": "Blue Ride-On | Wireless Remote, Bluetooth Mp3 Music and Rechargeable Battery Operated | Jeep A1200 4X4",
+      "oldPrice": 4999,
+      "newPrice": 3999
+    },
+    {
+      "id": "637d",
+      "image": "https://snooplay.in/cdn/shop/files/DinosaurTrackSet_TrackGame6google_720x.png?v=1683123555",
+      "name": "2 Layers Art Supplies Coloring Portable Case Kit (145 Pieces) - Assorted Case Colours & Designs",
+      "oldPrice": 4999,
+      "newPrice": 3999
+    }
+  ],
+  "cart": []
+} 
